@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "マリオネットラヴァーズ",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2025-12-04T06:47:11.566532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マリオネットラヴァーズ",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/01_マリオネットラヴァーズ_Amatsuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マリオネットラヴァーズ",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_マリオネットラヴァーズ_天月-あまつき-.txt"
+    }
+  ]
+}
